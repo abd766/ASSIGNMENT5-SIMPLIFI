@@ -210,10 +210,18 @@
   
   .container-card{
     position: relative;
-    height: 450px;
+    height:400px;
     width: 600px;
     top: 50px;
     left: calc(50% - 700px);
+    display: flex;
+  }
+  .container-card2{
+    position: relative;
+    height:400px;
+    width: 600px;
+    top: -20px;
+    left: calc(50% - 300px);
     display: flex;
   }
   
